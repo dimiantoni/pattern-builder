@@ -1,0 +1,18 @@
+{
+  "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+  },
+  "editor.tabSize": 2,
+  "typescript.preferences.importModuleSpecifier": "non-relative",
+  "files.exclude": {
+      "**/.git": true,
+      "**/.svn": true,
+      "**/.hg": true,
+      "**/.DS_Store": true,
+      "**/.next": true,
+  },
+  "search.exclude": {
+      "**/node_modules": true,
+      "dist/**/*": true
+  }
+}
